@@ -161,7 +161,7 @@ Clone the project
 ```bash
   git clone https://github.com/nishu9162306344/Tech-Blog-
 ```
-![oneimg](https://user-images.githubusercontent.com/52786028/200129024-3fddcf41-e3f8-4439-ba84-4942b9b7bfe1.png)
+
 
 
 Fire the URL
@@ -178,5 +178,19 @@ Here are some related projects
 
 [Github](https://github.com/nishu9162306344/Full-User-Management-System)
 
-https://drive.google.com/file/d/1goe93tqz0tsNJHb9iUzE4H7ValyuCxin/view?usp=share_link
+Some Images 
+![oneimg](https://user-images.githubusercontent.com/52786028/200129024-3fddcf41-e3f8-4439-ba84-4942b9b7bfe1.png)
+
+![Screenshot (1)](https://user-images.githubusercontent.com/52786028/200129235-9afacad1-f126-4bfa-9cdf-82230bb97fec.png)
+
+![Screenshot (2)](https://user-images.githubusercontent.com/52786028/200129315-849db79a-5b32-4e1b-9a34-7433244c5908.png)
+
+
+![Screenshot (3)](https://user-images.githubusercontent.com/52786028/200129323-0a75ee95-3f53-4354-a81f-c6ec3481adad.png)
+
+![Screenshot (4)](https://user-images.githubusercontent.com/52786028/200129336-ccddad1e-8945-4ec6-8cd9-b84be0805422.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/52786028/200129339-e49f9d41-81a2-4315-b1ab-32b31f109b82.png)
+
+![Screenshot (6)](https://user-images.githubusercontent.com/52786028/200129341-82489374-a5cc-4ede-ad29-fdf23b4a586a.png)
 
