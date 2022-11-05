@@ -161,6 +161,8 @@ Clone the project
 ```bash
   git clone https://github.com/nishu9162306344/Tech-Blog-
 ```
+![oneimg](https://user-images.githubusercontent.com/52786028/200129024-3fddcf41-e3f8-4439-ba84-4942b9b7bfe1.png)
+
 
 Fire the URL
 
