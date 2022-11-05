@@ -28,6 +28,10 @@
         <servlet-name>AddPostServlet</servlet-name>
         <servlet-class>com.tech.blog.servlets.AddPostServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>LikeServlet</servlet-name>
+        <servlet-class>com.tech.blog.servlets.LikeServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>SignupServlet</servlet-name>
         <url-pattern>/SignupServlet</url-pattern>
@@ -55,6 +59,10 @@
     <servlet-mapping>
         <servlet-name>AddPostServlet</servlet-name>
         <url-pattern>/AddPostServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>LikeServlet</servlet-name>
+        <url-pattern>/LikeServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

@@ -184,14 +184,8 @@ public class PostDao {
                 int userid=set.getInt("userid");
                 int catId=set.getInt("catId");
                    
-                post=new Post(pid, pTittle, pCotent, pCode, pPic, date, catId, userid);
-                
-                
-            }
-  
-            
-            
-           
+                post=new Post(pid, pTittle, pCotent, pCode, pPic, date, catId, userid);        
+            }                 
         } catch (Exception e) {            
             e.printStackTrace();
         }
